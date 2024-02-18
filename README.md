@@ -1,4 +1,8 @@
-### Just a normal Computer Science student
+### Just a normal college student(?)
+- I go by many names, mostly Kore
+- An Informatics Engineering Undergraduate student in Sepuluh Nopember Institute of Technology
+- Currently learning Front-End Web Development and Game Development
+- Rem is my waifu
 
 <!--
 **korekorokero/korekorokero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
