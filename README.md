@@ -1,4 +1,4 @@
-### Just a normal college student(?)
+# Just a normal college student(?)
 - I go by many names, mostly Kore
 - An Informatics Engineering Undergraduate student in Sepuluh Nopember Institute of Technology
 - Currently learning Front-End Web Development and Game Development
