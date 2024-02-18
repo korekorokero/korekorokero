@@ -1,5 +1,5 @@
 # Just a normal college student(?)
-- I go by many names, mostly Kore
+- I go by many nicknames, mostly Kore
 - An Informatics Engineering Undergraduate student in Sepuluh Nopember Institute of Technology
 - Currently learning Front-End Web Development and Game Development
 - Rem is my waifu
